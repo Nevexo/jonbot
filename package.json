@@ -1,11 +1,16 @@
 {
   "name": "jonbot",
   "version": "1.0.0",
+  "type": "module",
   "description": "A Discord management bot for the UCLan Computing 2020 Discord Server",
   "main": "index.js",
   "author": "Cameron Fleming <cameron@nevexo.space>",
   "license": "MIT",
   "dependencies": {
-    "discord.js": "^13.1.0"
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "discord-api-types": "^0.23.1",
+    "discord.js": "^13.1.0",
+    "dotenv": "^10.0.0",
+    "pino": "^6.13.2"
   }
 }
