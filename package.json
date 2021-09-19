@@ -1,0 +1,11 @@
+{
+  "name": "jonbot",
+  "version": "1.0.0",
+  "description": "A Discord management bot for the UCLan Computing 2020 Discord Server",
+  "main": "index.js",
+  "author": "Cameron Fleming <cameron@nevexo.space>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.1.0"
+  }
+}
